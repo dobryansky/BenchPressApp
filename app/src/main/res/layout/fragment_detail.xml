@@ -5,16 +5,4 @@
     android:layout_height="match_parent"
     android:background="@color/white"
     android:orientation="vertical"
-    tools:context=".DetailFragment">
-
-
-    <TextView
-        android:id="@+id/workoutDetail"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Details"
-        android:textSize="20dp"
-        android:textColor="@color/black"
-        android:layout_margin="10dp"/>
-
-</LinearLayout>
+    tools:context=".DetailFragment"/>
