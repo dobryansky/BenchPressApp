@@ -9,7 +9,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    LinearLayout lnBenchPress;
+   private LinearLayout lnBenchPress;
 
 
     @Override
@@ -26,4 +26,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+
+
 }

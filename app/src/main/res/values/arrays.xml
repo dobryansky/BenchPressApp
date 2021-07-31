@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weeks">
-        <item>Неделя 1</item>
-        <item>Неделя 2</item>
-        <item>Неделя 3</item>
-        <item>Неделя 4</item>
-        <item>Неделя 5</item>
-        <item>Неделя 6</item>
-        <item>Неделя 7</item>
-        <item>Неделя 8</item>
-        <item>Неделя 9</item>
-        <item>Неделя 10</item>
+        <item>Week 1</item>
+        <item>Week 2</item>
+        <item>Week 3</item>
+        <item>Week 4</item>
+        <item>Week 5</item>
+        <item>Week 6</item>
+        <item>Week 7</item>
+        <item>Week 8</item>
+        <item>Week 9</item>
+        <item>Week 10</item>
+        <item>Week 11</item>
+        <item>Week 12</item>
+        <item>Week 13</item>
+        <item>Week 14</item>
+        <item>Week 15</item>
+        <item>Week 16</item>
+        <item>Week 17</item>
+        <item>Week 18</item>
+        <item>Week 19</item>
+        <item>Week 20</item>
     </string-array>
 
     <string-array name="descriptions">
